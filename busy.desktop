@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=0.0.1
+Exec=bash -c 'cd ~ && gksudo ./busy.sh'
+Name=Busy Light
+GenericName=Busy Light
+Comment=Start busylight controll
+Encoding=UTF-8
+Terminal=true
+Type=Application
+Categories=Application;Network;

@@ -1,0 +1,16 @@
+{
+	"name": "iambusy",
+	"description": "Uses busylight lib to controll light status",
+	"version": "0.0.1",
+	"license": "GPL-3.0",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/evoweb/iambusy.git"
+	},
+	"readme": "ERROR: No README available!",
+
+	"main": "busy.js",
+	"dependencies": {
+		"busylight": "*"
+	}
+}
