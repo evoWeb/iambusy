@@ -11,6 +11,10 @@
 
 	"main": "busy.js",
 	"dependencies": {
+		"rimraf": "2.5.4",
 		"busylight": "*"
+	},
+	"scripts": {
+		"install": "sudo apt-get install libusb-1.0.0"
 	}
 }
